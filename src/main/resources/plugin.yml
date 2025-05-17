@@ -1,0 +1,23 @@
+name: iiHomes
+version: '1.2.4'
+main: dev.iiDanto.iiHomes.IiHomes
+api-version: '1.21'
+author: iiDanto
+website: iidanto.github.io
+commands:
+  home:
+    permission: iihomes.home
+    aliases:
+      - homes
+  forcehome:
+    permission: iihomes.admin
+    aliases:
+      - fhome
+  homeadmin:
+    permission: iihomes.admin
+    aliases:
+      - hadmin
+  iihomes:
+    aliases:
+      - iih
+      - ih
