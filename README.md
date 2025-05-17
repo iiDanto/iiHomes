@@ -1,4 +1,4 @@
-[![iiHomes][(https://i.imgur.com/6Kpznqx.png)]
+![iiHomes][(https://i.imgur.com/6Kpznqx.png)]
 
 ## Why use iiHomes?
 
