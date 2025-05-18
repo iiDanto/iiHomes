@@ -6,7 +6,7 @@ iiHomes is a lightweight, efficient, and **FREE** home gui plugin for your Minec
 
 ### Contributing to iiHomes
 
-* Are you a developer? Don't feel afraid to open a pull request.
+* Are you a developer? Don't feel afraid to open a [pull request](https://github.com/iiDanto/iiHomes/pulls).
 
 ### Installing iiHomes
 
